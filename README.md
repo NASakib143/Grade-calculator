@@ -49,4 +49,10 @@ Let’s help more beginners learn Python! 🐍
 
 This project is open source under the MIT License
 
+## 📝 BONUS SUGGESTIONS
+Want to make it even cooler?
+✅ Add a code snippet preview
+🖼️ Add a banner/logo 
+🧪 Add sample inputs/outputs
+
 **❤️ Made with love by @NASakib143**
